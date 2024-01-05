@@ -2,7 +2,9 @@
 
 ## Descrição
 
-Aplicativo simples que calcula a diferença do preço do álcool e gasolina e mostra ao usuário o menor preço.
+Neste aplicativo simples, aprofundei-me na aplicação de constraint layouts para organizar de forma eficiente os diversos componentes da interface. Implementei elementos como caixas de texto, botões de seleção e imagens, criando assim uma experiência visualmente coesa e intuitiva para o usuário.
+
+Além da estrutura visual, destaco que o aplicativo possui funcionalidades práticas, tais como o cálculo da diferença de preço entre álcool e gasolina. Ao realizar esse cálculo, a aplicação apresenta ao usuário a opção mais econômica, contribuindo para uma decisão informada na escolha do combustível. Essa combinação de aspectos visuais bem projetados e funcionalidades úteis torna o aplicativo acessível e eficaz para os usuários.
 
 ## Recursos
 
