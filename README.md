@@ -24,7 +24,7 @@ Ter o android studio. ( neste projeto foi utilizado o android-studio-2020.3.1.22
 ## Instalação
 
 - Ter o android studio instalado e devidamente configurado com a API 34 ou a mais recente
-- Ter o aplicativo dp emulador instalado ( tela : PIXEL 2 API 27 )
+- Ter o aplicativo do emulador instalado ( tela : PIXEL 2 API 27 )
 
 
 ```bash
